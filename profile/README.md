@@ -25,6 +25,18 @@
 
 ---
 
+## 🎥 Demo Video
+
+<div align="center">
+
+[![Nova Registry — Demo](https://img.youtube.com/vi/ZCoyns4OA-I/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZCoyns4OA-I)
+
+*Click the thumbnail to watch the full walkthrough*
+
+</div>
+
+---
+
 ## ⚡ Live Facilitator Endpoint
 
 > The Nova Registry backend is live and publicly accessible. This is the **x402 payment facilitator** — the server your SDK must point to for autonomous asset registration on Stellar.
